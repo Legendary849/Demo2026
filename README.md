@@ -778,7 +778,7 @@ nano /etc/dhcp/dhcpd.conf
 **Содержимое файла:**
 ```
 # dhcpd.conf(5) for further configuration
-update-style none;
+ddns-update-style none;
 
 subnet 192.168.200.0 netmask 255.255.255.224 {
     option routers 192.168.200.1;
