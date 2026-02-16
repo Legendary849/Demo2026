@@ -1467,7 +1467,7 @@ docker load < /mnt/docker/mariadb_latest.tar
 
 Проверка образов:
 ```bash
-docker images
+docker image ls
 ```
 
 Создание compose.yaml:
@@ -1514,7 +1514,7 @@ docker compose up -d
 
 Проверка:
 ```bash
-docker ps
+docker compose ps
 curl http://192.168.1.2:8080
 ```
 
