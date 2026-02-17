@@ -556,7 +556,7 @@ nano /etc/openssh/sshd_config
 **Содержимое файла (основные параметры):**
 ```
 Port 2026
-AddressFamily any
+#AddressFamily any
 #ListenAddress 0.0.0.0
 #ListenAddress ::
 
@@ -578,7 +578,7 @@ AllowUsers sshuser
 #PermitRootLogin without-password
 #StrictModes yes
 MaxAuthTries 2
-MaxSessions 10
+#MaxSessions 10
 ```
 
 Редактируем баннер, а именно файл по пути /etc/openssh/banner:
