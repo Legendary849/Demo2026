@@ -1,0 +1,51 @@
+========== GITHUB ==========
+
+wget https://raw.githubusercontent.com/Legendary849/Demo2026/main/isp_setup.sh
+chmod +x isp_setup.sh
+./isp_setup.sh
+
+wget https://raw.githubusercontent.com/Legendary849/Demo2026/main/hq_rtr_setup.sh
+chmod +x hq_rtr_setup.sh
+./hq_rtr_setup.sh
+
+wget https://raw.githubusercontent.com/Legendary849/Demo2026/main/hq_srv_setup.sh
+chmod +x hq_srv_setup.sh
+./hq_srv_setup.sh
+
+wget https://raw.githubusercontent.com/Legendary849/Demo2026/main/hq_cli_setup.sh
+chmod +x hq_cli_setup.sh
+./hq_cli_setup.sh
+
+wget https://raw.githubusercontent.com/Legendary849/Demo2026/main/br_rtr_setup.sh
+chmod +x br_rtr_setup.sh
+./br_rtr_setup.sh
+
+wget https://raw.githubusercontent.com/Legendary849/Demo2026/main/br_srv_setup.sh
+chmod +x br_srv_setup.sh
+./br_srv_setup.sh
+
+========== GITLAB ==========
+
+wget https://gitlab.com/Legendary849/demo2026/-/raw/main/isp_setup.sh
+chmod +x isp_setup.sh
+./isp_setup.sh
+
+wget https://gitlab.com/Legendary849/demo2026/-/raw/main/hq_rtr_setup.sh
+chmod +x hq_rtr_setup.sh
+./hq_rtr_setup.sh
+
+wget https://gitlab.com/Legendary849/demo2026/-/raw/main/hq_srv_setup.sh
+chmod +x hq_srv_setup.sh
+./hq_srv_setup.sh
+
+wget https://gitlab.com/Legendary849/demo2026/-/raw/main/hq_cli_setup.sh
+chmod +x hq_cli_setup.sh
+./hq_cli_setup.sh
+
+wget https://gitlab.com/Legendary849/demo2026/-/raw/main/br_rtr_setup.sh
+chmod +x br_rtr_setup.sh
+./br_rtr_setup.sh
+
+wget https://gitlab.com/Legendary849/demo2026/-/raw/main/br_srv_setup.sh
+chmod +x br_srv_setup.sh
+./br_srv_setup.sh
